@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.hash;
 
 import java.util.ArrayList;
 import java.util.HashMap;

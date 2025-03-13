@@ -1,3 +1,5 @@
+package Ex_DataStructures;
+
 import java.util.Stack;
 
 public class ExemploStack {

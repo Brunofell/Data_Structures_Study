@@ -1,3 +1,5 @@
+package Ex_DataStructures;
+
 import java.util.PriorityQueue;
 
 public class ExemploPriorityQueue {
