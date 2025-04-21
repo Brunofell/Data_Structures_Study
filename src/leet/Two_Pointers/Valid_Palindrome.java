@@ -9,7 +9,7 @@ public class Valid_Palindrome {
     }
 
     public static boolean isPalindrome(String s) {
-        // s = stringReplaceChat(s);
+        // s = stringReplaceChart(s);
         s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
         String sInverted = "";
 
@@ -24,7 +24,7 @@ public class Valid_Palindrome {
         }
     }
 
-    public static String stringReplaceChat(String s){
+    public static String stringReplaceChart(String s){
         s = s.replace(" ", "");
         s = s.replace(".", "");
         s = s.replace(",", "");

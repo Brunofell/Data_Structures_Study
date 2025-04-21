@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 public class VerifyAnagrams {
     public static void main(String[] args) {
-        String s1 = "Roma";
-        String s2 = "null";
+        String s1 = "Red Rum";
+        String s2 = "Murder";
 
         System.out.println(isAnagramValid(s1, s2));
 
